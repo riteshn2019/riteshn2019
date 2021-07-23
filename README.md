@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riteshn2019
 - 👀 I’m interested in ML peojects
 - 🌱 I’m currently learning AI & ML
-- 💞️ I’m looking to collaborate on ML Projects
+- 💞️ I’m looking to collaborate on AI and ML Projects
 
 
 <!---
